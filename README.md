@@ -109,6 +109,11 @@
 </p>
 
 ---
+<!-- Snake -->
+<div align="center"> 
+  
+  ![snake gif](https://github.com/bhapkarvaibhav/bhapkarvaibhav/blob/output/github-snake.svg)
+</div>
 
 <!-- MyGitHub Stats Live -->
 ### <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JtbzNuOGRuc3dmaDlvZ3VoNGlhbjM1cnl0ejd1eGE2MWVwazF4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
