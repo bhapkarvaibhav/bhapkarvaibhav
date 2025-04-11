@@ -40,10 +40,10 @@
 
 <!-- MyGitHub Stats Live -->
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhapkarvaibhav&theme=transparent&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhapkarvaibhav&layout=compact&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhapkarvaibhav&theme=transparent)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhapkarvaibhav&repo=bhapkarvaibhav)](https://github.com/bhapkarvaibhav/bhapkarvaibhav)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhapkarvaibhav&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhapkarvaibhav&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhapkarvaibhav&theme=dark)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bhapkarvaibhav&repo=bhapkarvaibhav&layout=compact&theme=dark&show_icons=true)](https://github.com/bhapkarvaibhav/bhapkarvaibhav)
 <!-- MyGitHub Stats Live -->
 
 
